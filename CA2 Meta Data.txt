@@ -1,0 +1,14 @@
+CA2 Meta Data
+
+Energy Consumption Data
+Date: Date
+Gas Consumption: The gas consumption in tons
+Electricity Consumption: The electricity consumption in MWh
+Water Consumption: The water consumption in tons
+
+Customer Data
+CustomerID: the unique ID of the customer
+Gender: gender of the customer
+Age: age of the customer
+Income: the annual income of the customer
+How Much They Spend: how much dollar the customer spend in the shop
